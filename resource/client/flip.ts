@@ -4,8 +4,8 @@ import {
   entityFromNetId,
   onServerEvent,
   Points,
-} from "@aifivem/lib/client";
-import { oneArg, readId } from "@aifivem/lib/shared";
+} from "@aicore8/lib/client";
+import { oneArg, readId } from "@aicore8/lib/shared";
 import { Locale } from "common";
 import { EVENTS } from "common/small";
 import { content, FALLBACK, onSettings } from "./settings";

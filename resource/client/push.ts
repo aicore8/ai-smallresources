@@ -7,7 +7,7 @@ import {
   nearestVehicle,
   player,
   TickLoop,
-} from "@aifivem/lib/client";
+} from "@aicore8/lib/client";
 import { Locale } from "common";
 import { EVENTS, type PushMode } from "common/small";
 import { content } from "./settings";

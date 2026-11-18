@@ -1,4 +1,4 @@
-import { bool, int, num, record, str } from "@aifivem/lib/shared";
+import { bool, int, num, record, str } from "@aicore8/lib/shared";
 import { names } from "./features";
 
 /**

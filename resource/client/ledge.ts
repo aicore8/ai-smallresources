@@ -6,8 +6,8 @@ import {
   Reasons,
   registerExport,
   TickLoop,
-} from "@aifivem/lib/client";
-import { waitFor } from "@aifivem/lib/shared";
+} from "@aicore8/lib/client";
+import { waitFor } from "@aicore8/lib/shared";
 import { cuffed } from "./gestures/guards";
 import { content, onSettings } from "./settings";
 

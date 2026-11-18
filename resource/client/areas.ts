@@ -1,4 +1,4 @@
-import { onStop } from "@aifivem/lib/client";
+import { onStop } from "@aicore8/lib/client";
 import type { Area } from "common/areas";
 import { areaBox, generators, NearAreas } from "./nearAreas";
 import { content, onSettings } from "./settings";

@@ -1,4 +1,4 @@
-import { cache, onCache } from "@aifivem/lib/client";
+import { cache, onCache } from "@aicore8/lib/client";
 import { content, onSettings } from "./settings";
 
 /** Vehicle radio off: no radio wheel, every vehicle entered has its radio switched off. */

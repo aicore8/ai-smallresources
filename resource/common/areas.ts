@@ -1,4 +1,4 @@
-import { int, num, record, str } from "@aifivem/lib/shared";
+import { int, num, record, str } from "@aicore8/lib/shared";
 
 /** A round spot on the map (police stations, hospitals, bank counters). */
 export interface Area {

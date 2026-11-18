@@ -1,4 +1,4 @@
-import { cache, controls, every, Keybind, onCache } from "@aifivem/lib/client";
+import { cache, controls, every, Keybind, onCache } from "@aicore8/lib/client";
 import { Locale } from "common";
 import { content, onSettings } from "./settings";
 

@@ -9,7 +9,7 @@ import {
   str,
   type Vec3,
   type ZoneShape,
-} from "@aifivem/lib/shared";
+} from "@aicore8/lib/shared";
 
 /** A panel area where the population differs from the Population card (`densityZones` records). */
 export interface DensityZone {

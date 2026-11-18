@@ -3,8 +3,8 @@ import {
   gestures,
   PlayerState,
   stateBoolean,
-} from "@aifivem/lib/client";
-import { PLAYER_BAGS } from "@aifivem/shared";
+} from "@aicore8/lib/client";
+import { PLAYER_BAGS } from "@aicore8/shared";
 
 const dead = new PlayerState(PLAYER_BAGS.dead, stateBoolean);
 export const cuffed = new PlayerState(PLAYER_BAGS.cuffed, stateBoolean);

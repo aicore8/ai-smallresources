@@ -1,4 +1,4 @@
-import { cache, every, onCache, TickLoop } from "@aifivem/lib/client";
+import { cache, every, onCache, TickLoop } from "@aicore8/lib/client";
 import { content, onSettings } from "./settings";
 
 /** Leaving a rear seat of a moving vehicle (not GTA's jump out) keeps its speed and knocks the player down. */

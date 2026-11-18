@@ -3,7 +3,7 @@ import {
   entityFromNetId,
   EntityState,
   TickLoop,
-} from "@aifivem/lib/client";
+} from "@aicore8/lib/client";
 import { type PushMode, readPushMode, VEHICLE_STATE } from "common/small";
 
 const pushState = new EntityState(VEHICLE_STATE.push, readPushMode);

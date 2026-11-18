@@ -1,4 +1,4 @@
-import type { CardSpec, WidgetSpec } from "@aifivem/shared";
+import type { CardSpec, WidgetSpec } from "@aicore8/shared";
 import { RECOIL_GROUPS } from "common/weapons";
 import { switchField } from "./switchField";
 

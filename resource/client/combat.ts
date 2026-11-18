@@ -4,8 +4,8 @@ import {
   every,
   onCache,
   raycast,
-} from "@aifivem/lib/client";
-import { distance, type Vec3 } from "@aifivem/lib/shared";
+} from "@aicore8/lib/client";
+import { distance, type Vec3 } from "@aicore8/lib/shared";
 import { content, onSettings } from "./settings";
 
 /** Attack and vehicle attack controls blocked while the barrel is behind cover. */

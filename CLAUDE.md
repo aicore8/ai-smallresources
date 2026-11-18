@@ -42,7 +42,7 @@ Small gameplay features, each behind a panel switch: seatbelt, cruise control, n
 
 ## Contracts
 
-- Events and callbacks: `resource/common/small.ts`. Client local event `SEATBELT_EVENT` and export `GetSeatbelt()`; client exports `IsHandsUp()`, `IsPointing()`, `SetLedgeGrabEnabled(enabled)`; server exports `SetNpcDisabled(on: boolean)` (GlobalState `aiNpcDisabled`; ai-admin's `/npc` calls it) and `IsNpcDisabled()` (typed `AiSmallResourcesServerExports` in `@aifivem/shared`); command `/unstuck`; replicated player states `aiHold`, `aiCarrying`, `aiCarriedBy`, `aiDiving`; character metadata `diveOxygen`; vehicle states `aiRealPlate`, `aiMoored`, `aiPush` (`PushMode`); reads the player state `instance` (routing bucket, ai-core bridge).
+- Events and callbacks: `resource/common/small.ts`. Client local event `SEATBELT_EVENT` and export `GetSeatbelt()`; client exports `IsHandsUp()`, `IsPointing()`, `SetLedgeGrabEnabled(enabled)`; server exports `SetNpcDisabled(on: boolean)` (GlobalState `aiNpcDisabled`; ai-admin's `/npc` calls it) and `IsNpcDisabled()` (typed `AiSmallResourcesServerExports` in `@aicore8/shared`); command `/unstuck`; replicated player states `aiHold`, `aiCarrying`, `aiCarriedBy`, `aiDiving`; character metadata `diveOxygen`; vehicle states `aiRealPlate`, `aiMoored`, `aiPush` (`PushMode`); reads the player state `instance` (routing bucket, ai-core bridge).
 - Items: `binoculars`, `firework1`-`firework4`, `newscam`, `newsmic`, `newsboom`, `fakeplate`, `notepad`, `note` (ai-inventory `data/items.json`), `diving_gear`, `diving_fill` (Qbox names; must exist in the active inventory).
 - Panel files: `settings`, `weapons`, `teleports`, `elevators`, `moorings`, `seats`, `densityZones`, `blips`, `discord` (all `sync: "all"`).
 

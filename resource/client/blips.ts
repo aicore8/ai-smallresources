@@ -1,5 +1,5 @@
-import { Blips } from "@aifivem/lib/client";
-import { RecordObjects } from "@aifivem/lib/shared";
+import { Blips } from "@aicore8/lib/client";
+import { RecordObjects } from "@aicore8/lib/shared";
 import { readMapBlip } from "common/mapRecords";
 import { content, onSettings, world } from "./settings";
 

@@ -9,8 +9,8 @@ import {
   progressFor,
   stateString,
   vehicleOf,
-} from "@aifivem/lib/server";
-import { fail, logSafe, readId, readText } from "@aifivem/lib/shared";
+} from "@aicore8/lib/server";
+import { fail, logSafe, readId, readText } from "@aicore8/lib/shared";
 import { Locale } from "common";
 import { FIREWORKS, HOLD_STATE, NEWS_ITEMS } from "common/items";
 import { EVENTS, ITEMS, NOTE_MAX } from "common/small";

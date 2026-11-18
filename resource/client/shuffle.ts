@@ -1,5 +1,5 @@
-import { cache, Keybind, notify } from "@aifivem/lib/client";
-import { waitFor } from "@aifivem/lib/shared";
+import { cache, Keybind, notify } from "@aicore8/lib/client";
+import { waitFor } from "@aicore8/lib/shared";
 import { Locale } from "common";
 import { belted } from "./driving";
 import { cuffed } from "./gestures/guards";

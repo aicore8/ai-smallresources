@@ -1,4 +1,4 @@
-import type { CardSpec, WidgetSpec } from "@aifivem/shared";
+import type { CardSpec, WidgetSpec } from "@aicore8/shared";
 import { switchField } from "./switchField";
 
 type Show = WidgetSpec["showIf"];

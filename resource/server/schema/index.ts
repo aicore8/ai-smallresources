@@ -1,4 +1,4 @@
-import type { PanelSchema } from "@aifivem/shared";
+import type { PanelSchema } from "@aicore8/shared";
 import { discordFile, discordTab } from "./discord";
 import { elevatorsFile, elevatorsTab } from "./elevators";
 import {

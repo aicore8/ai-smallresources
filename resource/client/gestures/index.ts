@@ -4,7 +4,7 @@ import {
   onCache,
   registerExport,
   TickLoop,
-} from "@aifivem/lib/client";
+} from "@aicore8/lib/client";
 import { Locale } from "common";
 import { content } from "../settings";
 import { sitting } from "../sit";

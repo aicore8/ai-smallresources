@@ -1,4 +1,4 @@
-import type { CardSpec, WidgetSpec } from "@aifivem/shared";
+import type { CardSpec, WidgetSpec } from "@aicore8/shared";
 import { AREAS_CARD, MOVEMENT_CARD, VEHICLE_EXTRAS_CARD } from "./featureCards";
 import { switchField } from "./switchField";
 import { COMBAT_CARD, WORLD_CARD } from "./worldCards";

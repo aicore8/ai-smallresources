@@ -4,8 +4,8 @@ import {
   onServerCallback,
   onServerEvent,
   player,
-} from "@aifivem/lib/client";
-import { readFinite } from "@aifivem/lib/shared";
+} from "@aicore8/lib/client";
+import { readFinite } from "@aicore8/lib/shared";
 import { EVENTS } from "common/small";
 
 /** Metres under the ground that count as fallen through the map. */

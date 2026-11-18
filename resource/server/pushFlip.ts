@@ -7,8 +7,8 @@ import {
   onClientEvent,
   progressFor,
   vehicleNearPlayer,
-} from "@aifivem/lib/server";
-import { fail, oneArg, readId } from "@aifivem/lib/shared";
+} from "@aicore8/lib/server";
+import { fail, oneArg, readId } from "@aicore8/lib/shared";
 import { Locale } from "common";
 import { EVENTS, readPushMode, VEHICLE_STATE } from "common/small";
 import { content } from "./content";

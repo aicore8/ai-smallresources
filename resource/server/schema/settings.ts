@@ -1,4 +1,4 @@
-import type { DataSpec, FileSpec, TabSpec } from "@aifivem/shared";
+import type { DataSpec, FileSpec, TabSpec } from "@aicore8/shared";
 import { EMERGENCY_AREAS } from "common/areas";
 import { FEATURE_DEFAULTS, FEATURE_SECTIONS } from "./featureSections";
 import { SETTINGS_CARDS } from "./settingsCards";

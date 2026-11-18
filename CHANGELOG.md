@@ -1,79 +1,79 @@
 # Changelog
 
-## [0.5.0](https://github.com/aifivem/ai-smallresources/compare/v0.4.2...v0.5.0) (2026-11-02)
+## [0.5.0](https://github.com/aicore8/ai-smallresources/compare/v0.4.2...v0.5.0) (2026-11-02)
 
 
 ### New Features
 
-* **smallresources:** add seat swap, vehicle push and flip, weapon rules, density zones, blips, ledge grab and unstuck ([53ff429](https://github.com/aifivem/ai-smallresources/commit/53ff429e7de59cf6af5bae9c87bf9134d2c88977))
+* **smallresources:** add seat swap, vehicle push and flip, weapon rules, density zones, blips, ledge grab and unstuck ([53ff429](https://github.com/aicore8/ai-smallresources/commit/53ff429e7de59cf6af5bae9c87bf9134d2c88977))
 
 
 ### Miscellaneous Chores
 
-* **data:** write the new settings defaults and panel schemas ([599240f](https://github.com/aifivem/ai-smallresources/commit/599240f5a0382af58624e3448c31dfafedf5b4c7))
+* **data:** write the new settings defaults and panel schemas ([599240f](https://github.com/aicore8/ai-smallresources/commit/599240f5a0382af58624e3448c31dfafedf5b4c7))
 
-## [0.4.2](https://github.com/aifivem/ai-smallresources/compare/v0.4.1...v0.4.2) (2026-11-02)
+## [0.4.2](https://github.com/aicore8/ai-smallresources/compare/v0.4.1...v0.4.2) (2026-11-02)
 
 
 ### Documentation
 
-* install from the release zip ([fb1e397](https://github.com/aifivem/ai-smallresources/commit/fb1e397b66dc40d431b6691010b5220a1a60c841))
+* install from the release zip ([fb1e397](https://github.com/aicore8/ai-smallresources/commit/fb1e397b66dc40d431b6691010b5220a1a60c841))
 
 
 ### Miscellaneous Chores
 
-* build files are no longer in git, the release zip carries them ([0600e57](https://github.com/aifivem/ai-smallresources/commit/0600e57c1b1a959d2ae16793f14973631648856d))
+* build files are no longer in git, the release zip carries them ([0600e57](https://github.com/aicore8/ai-smallresources/commit/0600e57c1b1a959d2ae16793f14973631648856d))
 
-## [0.4.1](https://github.com/aifivem/ai-smallresources/compare/v0.4.0...v0.4.1) (2026-11-02)
-
-
-### Code Refactoring
-
-* import the shared packages from [@aifivem](https://github.com/aifivem) ([e0babbf](https://github.com/aifivem/ai-smallresources/commit/e0babbf1e2effd63562f3f3f20becf74b2d8c052))
-
-## [0.4.0](https://github.com/aifivem/ai-smallresources/compare/v0.3.1...v0.4.0) (2026-11-01)
-
-
-### New Features
-
-* **smallresources:** open hood and trunk break off at speed, NPC melee damage setting ([ce761dc](https://github.com/aifivem/ai-smallresources/commit/ce761dcdc3ee11ec05ab95bb70f8955ebf859cc6))
-
-## [0.3.1](https://github.com/aifivem/ai-smallresources/compare/v0.3.0...v0.3.1) (2026-11-01)
+## [0.4.1](https://github.com/aicore8/ai-smallresources/compare/v0.4.0...v0.4.1) (2026-11-02)
 
 
 ### Code Refactoring
 
-* feature folders, side entries that only import, panel schema per tab ([9da6ff2](https://github.com/aifivem/ai-smallresources/commit/9da6ff2dcee614f00bf5aa0142211a6772cd0ff3))
+* import the shared packages from [@aicore8](https://github.com/aicore8) ([e0babbf](https://github.com/aicore8/ai-smallresources/commit/e0babbf1e2effd63562f3f3f20becf74b2d8c052))
 
-## [0.3.0](https://github.com/aifivem/ai-smallresources/compare/v0.2.0...v0.3.0) (2026-10-31)
+## [0.4.0](https://github.com/aicore8/ai-smallresources/compare/v0.3.1...v0.4.0) (2026-11-01)
 
 
 ### New Features
 
-* **discord:** Discord Rich Presence editable in the admin panel ([d092bf1](https://github.com/aifivem/ai-smallresources/commit/d092bf1eb9911097eb0cb8f4e20055b6381a3102))
+* **smallresources:** open hood and trunk break off at speed, NPC melee damage setting ([ce761dc](https://github.com/aicore8/ai-smallresources/commit/ce761dcdc3ee11ec05ab95bb70f8955ebf859cc6))
+
+## [0.3.1](https://github.com/aicore8/ai-smallresources/compare/v0.3.0...v0.3.1) (2026-11-01)
+
+
+### Code Refactoring
+
+* feature folders, side entries that only import, panel schema per tab ([9da6ff2](https://github.com/aicore8/ai-smallresources/commit/9da6ff2dcee614f00bf5aa0142211a6772cd0ff3))
+
+## [0.3.0](https://github.com/aicore8/ai-smallresources/compare/v0.2.0...v0.3.0) (2026-10-31)
+
+
+### New Features
+
+* **discord:** Discord Rich Presence editable in the admin panel ([d092bf1](https://github.com/aicore8/ai-smallresources/commit/d092bf1eb9911097eb0cb8f4e20055b6381a3102))
 
 
 ### Miscellaneous Chores
 
-* Discord settings schema ([282ea48](https://github.com/aifivem/ai-smallresources/commit/282ea48d7aeddcfbe563352aa4bf334662cee7d1))
+* Discord settings schema ([282ea48](https://github.com/aicore8/ai-smallresources/commit/282ea48d7aeddcfbe563352aa4bf334662cee7d1))
 
-## [0.2.0](https://github.com/aifivem/ai-smallresources/compare/v0.1.0...v0.2.0) (2026-10-31)
+## [0.2.0](https://github.com/aicore8/ai-smallresources/compare/v0.1.0...v0.2.0) (2026-10-31)
 
 
 ### New Features
 
-* no emergency spawns at stations, no stuck combat stance, pickups, idle cam and other game-feel switches; no crouch while invisible ([0ad26ed](https://github.com/aifivem/ai-smallresources/commit/0ad26ed8c2f029923d2724bb01e8fb56786fe82c))
+* no emergency spawns at stations, no stuck combat stance, pickups, idle cam and other game-feel switches; no crouch while invisible ([0ad26ed](https://github.com/aicore8/ai-smallresources/commit/0ad26ed8c2f029923d2724bb01e8fb56786fe82c))
 
 
 ### Bug Fixes
 
-* **sit:** stand up with X; the interaction key went to the focused seat target ([34edf82](https://github.com/aifivem/ai-smallresources/commit/34edf827b739ef07a51011a1f82e811d271b0044))
+* **sit:** stand up with X; the interaction key went to the focused seat target ([34edf82](https://github.com/aicore8/ai-smallresources/commit/34edf827b739ef07a51011a1f82e811d271b0044))
 
 
 ### Miscellaneous Chores
 
-* rebuild with the current lib ([6362b4d](https://github.com/aifivem/ai-smallresources/commit/6362b4def44e739c57390aba29c43b762f7ffa56))
-* rebuild with the current lib ([8c2fc79](https://github.com/aifivem/ai-smallresources/commit/8c2fc79d59aef4622dd6f2a2b0d89fc0c9cc7325))
-* rebuild with the current lib ([5cc8df1](https://github.com/aifivem/ai-smallresources/commit/5cc8df1b96a7900c56e7819fcb5371821c15790e))
-* rebuild with the current lib ([a306cac](https://github.com/aifivem/ai-smallresources/commit/a306cac66f4f937e33fd80a6c0497cf441e9ecd2))
-* rebuild with the current lib ([69b31a6](https://github.com/aifivem/ai-smallresources/commit/69b31a66f966077d02ffb665971100c0f83287d4))
+* rebuild with the current lib ([6362b4d](https://github.com/aicore8/ai-smallresources/commit/6362b4def44e739c57390aba29c43b762f7ffa56))
+* rebuild with the current lib ([8c2fc79](https://github.com/aicore8/ai-smallresources/commit/8c2fc79d59aef4622dd6f2a2b0d89fc0c9cc7325))
+* rebuild with the current lib ([5cc8df1](https://github.com/aicore8/ai-smallresources/commit/5cc8df1b96a7900c56e7819fcb5371821c15790e))
+* rebuild with the current lib ([a306cac](https://github.com/aicore8/ai-smallresources/commit/a306cac66f4f937e33fd80a6c0497cf441e9ecd2))
+* rebuild with the current lib ([69b31a6](https://github.com/aicore8/ai-smallresources/commit/69b31a66f966077d02ffb665971100c0f83287d4))

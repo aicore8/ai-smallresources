@@ -14,8 +14,8 @@ import {
   vehicleFromNet,
   vehicleKeys,
   vehicleOf,
-} from "@aifivem/lib/server";
-import { fail, nearestOf, oneArg, readId } from "@aifivem/lib/shared";
+} from "@aicore8/lib/server";
+import { fail, nearestOf, oneArg, readId } from "@aicore8/lib/shared";
 import { Locale } from "common";
 import { MOOR_RANGE } from "common/places";
 import { EVENTS, ITEMS, VEHICLE_STATE } from "common/small";

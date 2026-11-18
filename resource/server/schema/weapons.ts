@@ -1,5 +1,5 @@
-import { spec } from "@aifivem/lib/shared";
-import type { DataSpec, FileSpec, TabSpec } from "@aifivem/shared";
+import { spec } from "@aicore8/lib/shared";
+import type { DataSpec, FileSpec, TabSpec } from "@aicore8/shared";
 import {
   MELEE_WEAPONS,
   NO_AIM_MODELS,

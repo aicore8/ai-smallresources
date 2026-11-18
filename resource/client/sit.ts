@@ -7,7 +7,7 @@ import {
   player,
   Points,
   requestAnimDict,
-} from "@aifivem/lib/client";
+} from "@aicore8/lib/client";
 import { Locale } from "common";
 import { SEAT_TYPES, type SeatModel, type SeatPose } from "common/seats";
 import { content, onContent, onSettings } from "./settings";

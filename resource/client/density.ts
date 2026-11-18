@@ -5,8 +5,8 @@ import {
   stateBoolean,
   TickLoop,
   Zones,
-} from "@aifivem/lib/client";
-import { RecordObjects } from "@aifivem/lib/shared";
+} from "@aicore8/lib/client";
+import { RecordObjects } from "@aicore8/lib/shared";
 import { type DensityZone, readDensityZone } from "common/mapRecords";
 import { NPC_DISABLED } from "common/small";
 import { content, onSettings, world } from "./settings";

@@ -5,7 +5,7 @@ import {
   PlayerMap,
   progressFor,
   triggerClientCallback,
-} from "@aifivem/lib/server";
+} from "@aicore8/lib/server";
 import { Locale } from "common";
 import { EVENTS } from "common/small";
 import { content } from "./content";

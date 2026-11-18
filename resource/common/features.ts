@@ -1,4 +1,4 @@
-import { bool, int, num, record, vec4, type Vec4 } from "@aifivem/lib/shared";
+import { bool, int, num, record, vec4, type Vec4 } from "@aicore8/lib/shared";
 import { type Area, FLEECA_AREAS, readAreaList } from "./areas";
 
 /** Ledge grab numbers (qbx_smallresources `climp`): reach, ledge heights, assists, timeouts and cooldowns. */

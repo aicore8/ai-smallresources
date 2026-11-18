@@ -1,5 +1,5 @@
-import { BLIP_STYLE_FIELDS, spec } from "@aifivem/lib/shared";
-import type { FileSpec, TabSpec, WidgetSpec } from "@aifivem/shared";
+import { BLIP_STYLE_FIELDS, spec } from "@aicore8/lib/shared";
+import type { FileSpec, TabSpec, WidgetSpec } from "@aicore8/shared";
 import { BLIP_DEFAULT } from "common/mapRecords";
 
 const percent = (path: string, key: string, set: string): WidgetSpec => ({

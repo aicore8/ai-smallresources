@@ -10,8 +10,8 @@ import {
   stateBoolean,
   triggerClientCallback,
   vehicleOf,
-} from "@aifivem/lib/server";
-import { asArgs, int, isRecord, readInt } from "@aifivem/lib/shared";
+} from "@aicore8/lib/server";
+import { asArgs, int, isRecord, readInt } from "@aicore8/lib/shared";
 import { Locale } from "common";
 import { DIVE_STATE } from "common/items";
 import { EVENTS, ITEMS } from "common/small";

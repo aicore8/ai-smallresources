@@ -1,5 +1,5 @@
-import { ACCESS_FIELDS, accessFields } from "@aifivem/lib/shared";
-import type { FileSpec, TabSpec } from "@aifivem/shared";
+import { ACCESS_FIELDS, accessFields } from "@aicore8/lib/shared";
+import type { FileSpec, TabSpec } from "@aicore8/shared";
 
 export const teleportsFile: FileSpec = {
   kind: "records",

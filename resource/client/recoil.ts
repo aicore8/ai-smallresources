@@ -1,4 +1,4 @@
-import { cache, onCache, onShot, onStop } from "@aifivem/lib/client";
+import { cache, onCache, onShot, onStop } from "@aicore8/lib/client";
 import { content, onWeapons } from "./settings";
 
 /**

@@ -4,8 +4,8 @@ import {
   EntityState,
   Points,
   stateBoolean,
-} from "@aifivem/lib/client";
-import { nearestOf } from "@aifivem/lib/shared";
+} from "@aicore8/lib/client";
+import { nearestOf } from "@aicore8/lib/shared";
 import { Locale } from "common";
 import { MOOR_RANGE } from "common/places";
 import { EVENTS, VEHICLE_STATE } from "common/small";

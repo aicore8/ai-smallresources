@@ -1,4 +1,4 @@
-import { SEATBELT_EVENT } from "@aifivem/shared";
+import { SEATBELT_EVENT } from "@aicore8/shared";
 import {
   cache,
   controls,
@@ -8,7 +8,7 @@ import {
   onCache,
   onStop,
   registerExport,
-} from "@aifivem/lib/client";
+} from "@aicore8/lib/client";
 import { Locale } from "common";
 import { content, onSettings } from "./settings";
 

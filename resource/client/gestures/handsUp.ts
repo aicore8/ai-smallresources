@@ -1,4 +1,4 @@
-import { cache, controls, every, player } from "@aifivem/lib/client";
+import { cache, controls, every, player } from "@aicore8/lib/client";
 import { content } from "../settings";
 import { helpless, mine, playingAnimation } from "./guards";
 

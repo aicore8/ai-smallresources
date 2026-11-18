@@ -3,7 +3,7 @@ import type {
   FileSpec,
   TabSpec,
   WidgetSpec,
-} from "@aifivem/shared";
+} from "@aicore8/shared";
 import {
   DISCORD_LABEL_MAX,
   DISCORD_TEXT_MAX,

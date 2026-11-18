@@ -11,9 +11,9 @@ import {
   stateNumber,
   triggerClientCallback,
   vehicleOf,
-} from "@aifivem/lib/server";
-import { fail } from "@aifivem/lib/shared";
-import { CORE, PLAYER_BAGS } from "@aifivem/shared";
+} from "@aicore8/lib/server";
+import { fail } from "@aicore8/lib/shared";
+import { CORE, PLAYER_BAGS } from "@aicore8/shared";
 import { CARRY_STATE, EVENTS } from "common/small";
 import { content } from "./content";
 

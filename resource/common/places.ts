@@ -5,7 +5,7 @@ import {
   str,
   vec4,
   type Vec4,
-} from "@aifivem/lib/shared";
+} from "@aicore8/lib/shared";
 
 /** Panel records with places: teleports, elevators and moorings (no natives). */
 

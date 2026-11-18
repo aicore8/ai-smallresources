@@ -5,7 +5,7 @@ import {
   notify,
   onCache,
   TickLoop,
-} from "@aifivem/lib/client";
+} from "@aicore8/lib/client";
 import { Locale } from "common";
 import { content, onWeapons } from "./settings";
 

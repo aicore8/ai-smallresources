@@ -6,7 +6,7 @@ import {
   playerPed,
   PlayerState,
   stateString,
-} from "@aifivem/lib/client";
+} from "@aicore8/lib/client";
 import { Locale } from "common";
 import { HOLD_STATE, NEWS_ITEMS } from "common/items";
 import { binoculars } from "./items";

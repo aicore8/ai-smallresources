@@ -1,4 +1,4 @@
-import { cache, every, onCache } from "@aifivem/lib/client";
+import { cache, every, onCache } from "@aicore8/lib/client";
 import { content, onSettings } from "./settings";
 
 /** Hood (4) and trunk (5) door indexes. */

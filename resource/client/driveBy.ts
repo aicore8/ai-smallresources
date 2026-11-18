@@ -4,7 +4,7 @@ import {
   onCache,
   PlayerState,
   stateNumber,
-} from "@aifivem/lib/client";
+} from "@aicore8/lib/client";
 import { content, onWeapons } from "./settings";
 
 /** The player's routing bucket, kept by ai-core's bridge on every bucket change (qb-core's `instance` state). */

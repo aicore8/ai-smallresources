@@ -6,8 +6,8 @@ import {
   onClientEvent,
   online,
   PlayerMap,
-} from "@aifivem/lib/server";
-import { distance, oneArg, readId, type Vec3 } from "@aifivem/lib/shared";
+} from "@aicore8/lib/server";
+import { distance, oneArg, readId, type Vec3 } from "@aicore8/lib/shared";
 import { Locale } from "common";
 import { EVENTS } from "common/small";
 import { content } from "./content";

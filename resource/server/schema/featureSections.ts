@@ -1,5 +1,5 @@
-import { spec } from "@aifivem/lib/shared";
-import type { DataSpec } from "@aifivem/shared";
+import { spec } from "@aicore8/lib/shared";
+import type { DataSpec } from "@aicore8/shared";
 import { FLEECA_AREAS } from "common/areas";
 import {
   LEDGE_DEFAULTS,
